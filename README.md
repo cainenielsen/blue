@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### GitHub Pages Config
+https://learnvue.co/tutorials/deploy-vue-to-github-pages
